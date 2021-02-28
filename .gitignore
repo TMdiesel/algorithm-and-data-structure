@@ -33,6 +33,7 @@
 
 # code
 create.py
+template.cpp
 
 # vscode
 .vscode/
